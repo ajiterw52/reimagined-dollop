@@ -1,1 +1,2 @@
-print("hello hacktoberfest")
+def hello():
+  print("hello there")
